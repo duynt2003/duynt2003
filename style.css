@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header .header-top .header-logo .contact {
+    font-size: .5em;
+    text-transform: uppercase;
+    color: #717171;
+    font-weight: 600;
+    padding-bottom: 4px;
+}
+header .main-menu{
+    border-top: 2px red solid;
+    height: 50px;
+    border-bottom: 1px gray solid;
+}
+h1.title{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.group-1{
+    font-size: 1.1rem;
+    max-width: 75vw;
+    line-height: 1.5rem;
+    border-right: gray solid 1px;
+    padding: 40px 60px;
+}
+.text{
+    margin-top: 1.1rem;
+}
+.group-2{
+    color: #333;
+}
+figcaption{
+    display: block;
+    color: gray;
+}

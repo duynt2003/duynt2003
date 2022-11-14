@@ -1,0 +1,6 @@
+img{
+    max-width: 100%;
+}
+.group-2->img{
+    max-width: 100px;
+}

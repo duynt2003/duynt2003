@@ -1,0 +1,26 @@
+div{
+    display: block;
+}
+#content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: normal;
+    align-content: normal;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#site-header{
+    align-content: space-between;
+}
+header .header-top .header-content .web-link .logo-phu-trang {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+}
+header .header-top{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 2px 0px 2px;
+}
